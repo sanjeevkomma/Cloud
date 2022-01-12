@@ -14,7 +14,7 @@
 * OpenShift is built on top of Docker and Kubernetes
 * The API to the OpenShift  cluster is 100% Kubernetes
 2. [AWS Console](https://aws.amazon.com/console/)
-3. [Microsoft Azure Console](https://portal.azure.com/)
+3. [Azure Console](https://portal.azure.com/)
 4. [GCP Console](https://console.cloud.google.com/)
 5. IBM Cloud
 6. [PCF(Pivotal Cloud Foundry) Console](https://console.run.pivotal.io/)
