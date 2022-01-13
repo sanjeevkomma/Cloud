@@ -21,5 +21,8 @@
 * [Top 5 Hypervisors](https://www.actualtechmedia.com/io/top-5-enterprise-type-1-hypervisors/)
 
 # Reference
+* [Install Apache Tomcat and deploy a Java web application on Red Hat OpenShift](https://developers.redhat.com/blog/2020/07/01/install-apache-tomcat-and-deploy-a-java-web-application-on-red-hat-openshift)
+
+# Image
 1. Container VS Virtual Machine
 * ![image](https://user-images.githubusercontent.com/7721150/149341082-6956de03-71e0-4dc9-91b9-78fcf8a53ead.png)
