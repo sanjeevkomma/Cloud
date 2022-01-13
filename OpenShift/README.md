@@ -14,6 +14,10 @@
 * [Installing Minishift](https://docs.okd.io/3.11/minishift/getting-started/installing.html)
 * [How to install OpenShift Origin on Windows 7](https://stackoverflow.com/questions/17637981/how-to-install-openshift-origin-on-windows-7)
 
+# Commands
+* $ minishift version
+* $ minishift start
+
 # Terminology
 * Physical Machine
 * Vitual Machine
@@ -25,6 +29,7 @@
 * Registry
 * Persistent Storage
 * Pod
+* Cluster
 
 
 # Tutorial
