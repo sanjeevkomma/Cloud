@@ -1,6 +1,7 @@
 # Defintion
 
 # To Read
+* Openshift is Kubernetes but an Enterprise
 
 # Prerequisites
 1. Docker
