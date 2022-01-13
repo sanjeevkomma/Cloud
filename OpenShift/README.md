@@ -2,7 +2,7 @@
 
 # To Read
 * Openshift is Kubernetes but an Enterprise
-* Openshift can be run on 1) Physical machine or 2) Virtual machine or 3) Cloud
+* Openshift can be run on 1) Physical machine OR 2) Virtual machine OR 3) Cloud
 
 # Prerequisites
 1. Docker
