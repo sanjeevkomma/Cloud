@@ -1,3 +1,8 @@
+# Definition
+
+# To Read
+* Historically, all organizations used on-premises data centers. An on-prem data center simply means that the organization maintains all of the IT infrastructure needed by the business on-site
+
 # Cloud
 Cloud
 
@@ -12,3 +17,6 @@ Cloud
 # GCP
 # Azure
 * Azure is IaaS
+
+# Reference
+* [Data Center vs Cloud](https://www.checkpoint.com/cyber-hub/cyber-security/what-is-data-center/data-center-vs-cloud/)
