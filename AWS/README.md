@@ -26,6 +26,7 @@
       2. aPaaS ( Application Platform as a Service ) 
       3. fPaas ( Function Platform as a Service )
 4. SaaS ( Software as a Service )
+5. FaaS ( Function as a Service )
 
 
 # Deployment Models
