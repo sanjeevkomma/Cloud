@@ -38,6 +38,7 @@
 
 # Reference
 * [Install Apache Tomcat and deploy a Java web application on Red Hat OpenShift](https://developers.redhat.com/blog/2020/07/01/install-apache-tomcat-and-deploy-a-java-web-application-on-red-hat-openshift)
+* [Setting up projects (namespaces) on Red Hat OpenShift Container Platform](https://www.ibm.com/docs/en/cloud-paks/cp-data/4.0?topic=tasks-setting-up-projects-namespaces)
 
 # Image
 1. Container VS Virtual Machine
