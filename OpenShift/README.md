@@ -4,6 +4,7 @@
 * Openshift is Kubernetes but an Enterprise
 * Openshift can be run / installed on 1) Physical machine OR 2) Virtual machine OR 3) Cloud
 * Storage of docker image can be 1) Openshift registry OR 2) Nexus registry
+* Namespaces = A Kubernetes namespace provides a mechanism to scope resources in a cluster. In OpenShift Online, a project is a Kubernetes namespace with additional annotations. Namespaces provide a unique scope for: Named resources to avoid basic naming collisions
 
 # Prerequisites
 1. Docker
