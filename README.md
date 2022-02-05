@@ -1,10 +1,9 @@
 # Definition
+* Cloud = 
+* Cloud Computing = 
 
 # To Read
 * Historically, all organizations used on-premises data centers. An on-prem data center simply means that the organization maintains all of the IT infrastructure needed by the business on-site
-
-# Cloud
-Cloud
 
 # Blue Green Deployment
 * Usage : Reduce Downtime and Risk
