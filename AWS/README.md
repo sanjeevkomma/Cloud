@@ -1,11 +1,12 @@
 # Definition
-
+* AWS = AWS is cloud computing platform that provides computing, database, networking, storage etc
 
 # To Read
 * [AWS Console](https://aws.amazon.com/console/)
 
 # Terminology
 * VPC = It is logically isolated from other virtual networks in the AWS Cloud
+* IAM = Identity and Access Managment
 
 # Tutorial
 * [What is AWS](https://www.youtube.com/watch?v=3XFODda6YXo)
