@@ -22,6 +22,8 @@
 * [How PCF  is different from AWS ](https://stackoverflow.com/questions/49151053/how-pcf-pivotal-cloud-foundry-is-different-from-aws-amazon-web-services)
 
 # Image
+1. Getting Started
+* ![image](https://user-images.githubusercontent.com/7721150/154119220-f8b76278-ed7f-402f-9c59-55e3505174f7.png)
 
 
 
