@@ -2,6 +2,7 @@
 
 
 # To Read
+* [AWS Console](https://aws.amazon.com/console/)
 
 # Terminology
 * VPC = It is logically isolated from other virtual networks in the AWS Cloud
