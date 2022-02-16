@@ -7,6 +7,7 @@
 # Terminology
 * VPC = It is logically isolated from other virtual networks in the AWS Cloud
 * IAM = Identity and Access Managment
+* Provisioning = Renting
 
 # Tutorial
 * [What is AWS](https://www.youtube.com/watch?v=3XFODda6YXo)
