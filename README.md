@@ -1,6 +1,6 @@
 # Definition
 * Cloud = The cloud refers to software and services that run on the Internet, instead of locally on your computer
-* Cloud Computing = On-demand delivery of resources / services such as storage, computing, networking, database over the cloud ( internet ) instead of buying & maintaining locally
+* Cloud Computing = On-demand delivery of resources / services such as storage, computing, networking, database over the cloud (internet) instead of buying & maintaining locally
 
 # To Read
 * Historically, all organizations used on-premises data centers. An on-prem data center simply means that the organization maintains all of the IT infrastructure needed by the business on-site
