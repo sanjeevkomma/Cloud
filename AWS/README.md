@@ -3,6 +3,7 @@
 
 # To Read
 * [AWS Console](https://aws.amazon.com/console/)
+* [Explore AWS Training and Certification Events](https://aws.amazon.com/training/events/?trk=082b8db7-433d-49dd-aa23-51ac282daa00&sc_channel=em&get-certified-vilt-courses-cards.sort-by=item.additionalFields.startDateSort&get-certified-vilt-courses-cards.sort-order=asc&awsf.get-certified-vilt-courses-type=*all&awsf.get-certified-vilt-courses-series=series%23aws-certification-exam-readiness&awsf.get-certified-vilt-audience=*all&awsf.get-certified-vilt-locations=*all&awsf.get-certified-vilt-countries=*all&awsf.get-certified-vilt-languages=*all&awsf.get-certified-vilt-courses-level=*all&awsf.get-certified-vilt-courses-tech-category=*all)
 
 # Terminology
 * VPC = It is logically isolated from other virtual networks in the AWS Cloud
