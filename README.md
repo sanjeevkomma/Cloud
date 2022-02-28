@@ -70,6 +70,7 @@
 * [AWS Java SDK](https://mvnrepository.com/artifact/com.amazonaws)
 * [What is Infrastructure as Code (IaC)](https://www.youtube.com/watch?v=Tkv49sTvKZY)
 * [AWS Vs Azure Vs GCP](https://www.youtube.com/watch?v=nrqmYvjHHJg)
+* [Cloud Computing for Java](https://mvnrepository.com/open-source/cloud-computing-integration)
 
 # Reference
 * [qwiklabs](https://aws.qwiklabs.com/)
