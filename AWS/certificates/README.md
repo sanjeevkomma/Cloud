@@ -9,3 +9,6 @@
 * AWS Certified Advanced Networking - Speciality
 * AWS Certified Machine Learning - Speciality
 * AWS Certified Alexa Skill Builder -Speciality
+
+
+* https://mindmajix.com/aws-certification-path#types-of-aws-certification
