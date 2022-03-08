@@ -1,5 +1,7 @@
 ## AWS - Cloud Practitioner
 
+* https://mindmajix.com/aws-certification-path#aws-certified-cloud-practitioner-foundational
+
 A summary of what you need to know for the exam can be found [here](https://codingshell.com/aws-cloud-practitioner)
 
 #### Cloud 101
