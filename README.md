@@ -5,6 +5,8 @@
 # To Read
 * Historically, all organizations used on-premises data centers. An on-prem data center simply means that the organization maintains all of the IT infrastructure needed by the business on-site
 
+# Canary Deployment 
+
 # Blue Green Deployment
 * Usage : Reduce Downtime and Risk
 * [Blue-Green Deployment](https://docs.cloudfoundry.org/devguide/deploy-apps/blue-green.html)
