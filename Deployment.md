@@ -1,3 +1,12 @@
+# Deployment Types
+| #Type  | #Description |
+| :---: | :---: | 
+| Canary Deployment |Canary deployments allow organizations to test in production with real users and use cases and compare different service versions side by side. It's cheaper than a blue-green deployment because it does not require two production environments  |
+| Blue Green Deployment |  |
+|Recreate Strategy (highlander ) | |
+|Shadow Deployment | |
+|A/B testing Deployment strategy | |
+
 # Canary Deployment 
 
 # Blue Green Deployment
