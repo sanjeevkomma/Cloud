@@ -11,7 +11,7 @@
 2. Kubernetes
 
 # Installation
-* Installation Types = Openshift can be hosted on 1) Cloud 2) PAAS (RedHat) 3) data center 4) laptop ( Minishift )
+* Installation Types = Openshift can be hosted on 1) Cloud 2) PAAS (RedHat) 3) data center 4) laptop ( Mini shift )
 * [Installing Minishift](https://docs.okd.io/3.11/minishift/getting-started/installing.html)
 * [How to install OpenShift Origin on Windows 7](https://stackoverflow.com/questions/17637981/how-to-install-openshift-origin-on-windows-7)
 
