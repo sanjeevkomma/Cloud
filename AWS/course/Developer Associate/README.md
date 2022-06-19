@@ -1,6 +1,6 @@
 # Reference
 * [AWS Documentation](https://docs.aws.amazon.com/index.html)
-# Terminology
+# To Read
 * ARN = Amazon Resource Name = To uniquely identify AWS resource
 * VPC = It is logically isolated from other virtual networks in the AWS Cloud
 * Region = To provide High Availability & Low Latency. Each Region has atleast 2 Availablity Zones
