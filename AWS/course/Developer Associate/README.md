@@ -3,10 +3,10 @@
 # Service
 |#SNo| #Service  | #Intent |
 | :---:| :---: | :---: | 
-|1| API Gateway |  |
-|2| Auto Scaling |  |
+|1| IAM-Identity Access Management | 1. To securely control access to AWS resources 2. To control who is authenticated (signed in) and authorized (has permissions) to use resources |
+|2| Chime |  |
 |3| Chime |  |
-|4| IAM-Identity Access Management | 1. To securely control access to AWS resources 2. To control who is authenticated (signed in) and authorized (has permissions) to use resources |
+|4| Chime |  |
 |5| Chime |  |
 |6| Chime |  |
 |7| Chime |  |
