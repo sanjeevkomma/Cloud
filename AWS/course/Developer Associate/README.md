@@ -3,7 +3,7 @@
 # Terminology
 * ARN = Amazon Resource Name = To uniquely identify AWS resource
 * VPC = It is logically isolated from other virtual networks in the AWS Cloud
-* Region = To provide High Availability & Low Latency. Each Region has atleast 2 Avilablity Zones
+* Region = To provide High Availability & Low Latency. Each Region has atleast 2 Availablity Zones
 * Avilablity Zone = To increase Availability of application in the same Region
 * Data Center = 
 * Low Latency = Delay
