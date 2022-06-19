@@ -1,6 +1,6 @@
 # Service
-| #Service  | #Description |
-| :---: | :---: | 
-| API Gateway |  |
-| Auto Scaling |  |
-| Chime |  |
+|#SNo| #Service  | #Intent |
+| :---:| :---: | :---: | 
+|1| API Gateway |  |
+|2| Auto Scaling |  |
+|3| Chime |  |
