@@ -1,5 +1,7 @@
 # Reference
 * [AWS Documentation](https://docs.aws.amazon.com/index.html)
+# Terminology
+* ARN = Amazon Resource Name = To uniquely identify AWS resource
 # Service
 |#SNo| #Service  | #Intent |
 | :---:| :---: | :---: | 
